@@ -1,6 +1,11 @@
 # DJI-EXP
 "Visual navigation for UAV Landing on Accessory Building Floor"
 
+Advisor:Jyi-Shane Liu,Department of Computer Science National Chengchi University
+Taipei, Tawian
+Pervasive Artificial Intelligence Labs, Taiwan
+liujs@nccu.edu.tw
+
 1.Landing is a critical step in most real world UAV applications, especially in delivery.
 
 2.Landing process is divided into four steps:
